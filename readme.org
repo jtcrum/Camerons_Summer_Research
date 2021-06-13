@@ -7,7 +7,7 @@ This is the Git repo you will be using all summer to do your research and share 
 - [[./Example_Notebooks][Example Notebooks]]
 - [[./Documents][Documents]]
   - [[./Documents/Research_Outline.org][Research Goals]]
-  - Schedule
+  - [[./Documents/Schedule.org][Schedule]]
 
 * Getting Started
 
