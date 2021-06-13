@@ -1,0 +1,44 @@
+* Summer Schedule
+This is a very rough approximation, and we can update as we move through the summer. 
+
+* June
+
+** Week 1 (6/14 - 6/18)
+- Intro meeting
+- Install your software
+- Discuss the project
+- Get used to Git and Python
+- Start learning about zeolites
+** Week 2 (6/21 - 6/25)
+- Reading papers about zeolite clustering
+- Trying to basic clustering example codes
+  - Not for zeolites, but just to learn how to code
+** Week 3 (6/28 - 7/2)
+- Understanding the data that's been provided
+- Learning how to work with it in Python
+- **Getting ready to celebrate America!!!**
+
+* July
+
+** Week 4 (7/5 - 7/9)
+- Research and coding
+** Week 5 (7/12 - 7/16)
+- Research and coding
+** Week 6 (7/19 - 7/23)
+- Research and coding
+** Week 7 (7/26 - 7/30)
+- Research and coding
+- Outline for a final report
+  - Don't be intimidated, I just don't know what else to call it.
+  - You will just write up your results and present them to the group.
+  - It will be fun!
+
+* August (Almost done!)
+** Week 8 (8/2 8/6)
+- Research and coding
+- Paper should be moving along
+  - I will review it for you and help out
+  - Get a presentation ready
+** Week 9 (8/9 - 8/13)
+- Give your Paper to Dr. Schneider
+- Present your findings to the group
