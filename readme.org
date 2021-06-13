@@ -1,14 +1,13 @@
 * Welcome
-This is the Git repo you will be using all summer to do your research, and share results with me. I have put together some [[./Data][data]] and [[/Example_Notebooks][example code]] you might want to use.
+This is the Git repo you will be using all summer to do your research and share results with me. I have put together some [[./Data][data]] and [[/Example_Notebooks][example code]] you might want to use.
 
 * Navigation 
 
 - [[./Data][Data]]
 - [[./Example_Notebooks][Example Notebooks]]
 - [[./Documents][Documents]]
+  - [[./Documents/Research_Outline.org][Research Goals]]
   - Schedule
-  - Research Goals
-  - Mentor/Mentee Contract
 
 * Getting Started
 
@@ -28,13 +27,25 @@ Using terminal, go to the directory where you want this repo to live, and type:
 git clone https://github.com/jtcrum/Camerons_Summer_Research
  #+END_SRC
 
-** Fill in mentor / mentee contract
+** Fill in Research Outline
 
+Go [[./Documents/Research_Outline.org][here]] and add in your personal goals for the summer as well as verifying meeting information.
+ 
 ** Install ZSE
+Zeolite Simulation Environment is software I wrote to find rings in zeolites. I have already run the code to find all the rings using various different methods. That data is available to you in the Data folder. However there are other useful functions in ZSE you might want to use while doing your research. 
+
+[[github.com/jtcrum/zse][Zeolite Simulation Environment]]
+
 
 ** Play with the example code
+The best way to learn Python is to play with code. Figure out what it's doing, change it and see what happens. Give it a shot. 
+
 
 ** Write down any and all questions 
+As you get started write down all the questions you have along the way. I will gladly answer them for you when we meet next.
+
+If you have any trouble installing software or something that prevents you from moving on, reach out to me right away and we will get that fixed. 
+
 
 * Helpful Information
 
