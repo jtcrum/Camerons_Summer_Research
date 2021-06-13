@@ -19,11 +19,13 @@ While answering the questions in the Research Goals section, you will likely lea
   - What are the made of
     - What are tetrahedral and oxygen sites?
   - What is a ring in a zeolite?
-    - What are they different ways researchers define rings? 
+    - What are the different ways researchers define rings? 
 - Python
   - You are going to learn so much Python coding
   - How to read and parse files in Python
-  - How to do some basic data science techniques in Python
+  - How to use some basic data science techniques in Python
+  - Math in Python
+  - Plotting
 - Git
   - You will learn version control and information sharing via Git
   - Cloning repositories
