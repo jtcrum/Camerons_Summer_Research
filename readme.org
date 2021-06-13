@@ -34,7 +34,7 @@ Go [[./Documents/Research_Outline.org][here]] and add in your personal goals for
 ** Install ZSE
 Zeolite Simulation Environment is software I wrote to find rings in zeolites. I have already run the code to find all the rings using various different methods. That data is available to you in the Data folder. However there are other useful functions in ZSE you might want to use while doing your research. 
 
-[[github.com/jtcrum/zse][Zeolite Simulation Environment]]
+[[https://github.com/jtcrum/zse][Zeolite Simulation Environment]]
 
 
 ** Play with the example code
@@ -49,5 +49,5 @@ If you have any trouble installing software or something that prevents you from 
 
 * Helpful Information
 
-- [[github.com/jtcrum/zse][Zeolite Simulation Environment]]
+- [[https://github.com/jtcrum/zse][Zeolite Simulation Environment]]
 - [[https://github.com/wfschneidergroup/wiki][Group Wiki]]
