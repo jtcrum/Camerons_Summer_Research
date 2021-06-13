@@ -25,7 +25,8 @@ Follow the instructions [[https://wiki.fysik.dtu.dk/ase/install.html][here]] to 
 Using terminal, go to the directory where you want this repo to live, and type:
 
 ~~~
-git clone 
+git clone https://github.com/jtcrum/Camerons_Summer_Research
+~~~
 
 ** Fill in mentore / mentee contract
 
