@@ -13,7 +13,7 @@ This is the Git repo you will be using all summer to do your research and share 
 
 ** Install Anaconda / Python
 
-[[https://www.anaconda.com/products/individual][Go here]] and to download, then follow the install instructions.
+[[https://www.anaconda.com/products/individual][Go here]] and download, then follow the install instructions.
 
 ** Install ASE
 

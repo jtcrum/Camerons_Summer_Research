@@ -11,7 +11,7 @@ This is a very rough approximation, and we can update as we move through the sum
 - Start learning about zeolites
 ** Week 2 (6/21 - 6/25)
 - Reading papers about zeolite clustering
-- Trying to basic clustering example codes
+- Trying out basic clustering example codes
   - Not for zeolites, but just to learn how to code
 ** Week 3 (6/28 - 7/2)
 - Understanding the data that's been provided
@@ -40,5 +40,5 @@ This is a very rough approximation, and we can update as we move through the sum
   - I will review it for you and help out
   - Get a presentation ready
 ** Week 9 (8/9 - 8/13)
-- Give your Paper to Dr. Schneider
+- Give your paper to Dr. Schneider
 - Present your findings to the group
