@@ -1,0 +1,45 @@
+* Summer Goals and Commitments
+This form outlines the goals for your research this summer, your personal learning goals for the summer, and other useful information.
+
+* Research Goals
+Dr. Schneider and I set these. At the end of the summer you should be able to tell us the following:
+
+1. What is clustering?
+2. How have zeolites been clustered before?
+3. How do zeolites cluster according to different ring or T-site descriptors?
+
+* Personal Goals
+You should fill this section in with some personal goals you would like to achieve while researching with us. I can help make sure we accomplish those if I know what they are. 
+
+* Things You Will Learn Along the Way
+While answering the questions in the Research Goals section, you will likely learn some of the following:
+
+- Zeolite information?
+  - What are they used for?
+  - What are the made of
+    - What are tetrahedral and oxygen sites?
+  - What is a ring in a zeolite?
+    - What are they different ways researchers define rings? 
+- Python
+  - You are going to learn so much Python coding
+  - How to read and parse files in Python
+  - How to do some basic data science techniques in Python
+- Git
+  - You will learn version control and information sharing via Git
+  - Cloning repositories
+  - Push changes to repositories
+- How to work with a research group
+- Self guidance and self motivation due to remote working
+
+* Meeting Information
+We can update this as the summer goes along, but we can start here.
+
+- Weekly meetings between Cameron and Jerry to take place via Zoom.
+  - Day/time TBD
+- Cameron will attend Schneider Group meetings
+  - Monday and Friday check ins at 10 AM EDT
+  - Wednesdays Zeolites sub-group meeting 9 AM EDT
+- Cameron and Dr. Schneider meetings:
+  - This can get filled in accordingly, I'm not sure what works best for you two.
+
+
