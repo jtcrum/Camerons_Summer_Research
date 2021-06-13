@@ -28,7 +28,7 @@ Using terminal, go to the directory where you want this repo to live, and type:
 git clone https://github.com/jtcrum/Camerons_Summer_Research
  #+END_SRC
 
-** Fill in mentore / mentee contract
+** Fill in mentor / mentee contract
 
 ** Install ZSE
 
