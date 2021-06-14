@@ -17,7 +17,7 @@ Dr. Schneider and I set these. At the end of the summer you should be able to te
    - I've messed up so many presentations, and no one cares.
    - This is your chance to show off how much you have learned. 
 * Personal Goals
-You should fill this section in with some personal goals you would like to achieve while researching with us. I can help make sure we accomplish those if I know what they are. 
+Understand the code used to determine how many rings are in the structures. Discern if I enjoy research and if it is a potential career path. Become proficient at coding and learn some more chemistry. 
 
 * Things You Will Learn Along the Way
 While answering the questions in the Research Goals section, you will likely learn some of the following:
