@@ -1,5 +1,5 @@
 * Welcome
-This is the Git repo you will be using all summer to do your research and share results with me. I have put together some [[./Data][data]] and [[/Example_Notebooks][example code]] you might want to use.
+Test This is the Git repo you will be using all summer to do your research and share results with me. I have put together some [[./Data][data]] and [[/Example_Notebooks][example code]] you might want to use.
 
 * Navigation 
 
