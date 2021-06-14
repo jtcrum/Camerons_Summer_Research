@@ -51,6 +51,5 @@ If you have any trouble installing software or something that prevents you from 
 
 - [[https://github.com/jtcrum/zse][Zeolite Simulation Environment]]
 - [[https://github.com/wfschneidergroup/wiki][Group Wiki]]
-- [[https://schneider-group.com][Group Web Page]]
 - [[http://www.iza-structure.org][International Zeolite Association]]
 - [[https://github.com/jtcrum/zse_manuscript][ZSE Manuscript Repo]]
