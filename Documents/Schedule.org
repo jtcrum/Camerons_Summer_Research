@@ -9,6 +9,13 @@ This is a very rough approximation, and we can update as we move through the sum
 - Discuss the project
 - Get used to Git and Python
 - Start learning about zeolites
+
+- Accomplished:
+	- Learned abotu zeloites
+	- Read about Graph Theory in case any theorems could be helpful
+	- Created a function to count number of Tsites and Osites
+	- Refamiliareted with python and dictionaries 
+	- Attended first research meetings
 ** Week 2 (6/21 - 6/25)
 - Reading papers about zeolite clustering
 - Trying out basic clustering example codes
